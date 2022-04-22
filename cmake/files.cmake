@@ -1,0 +1,2 @@
+file(GLOB SOURCES CONFIGURE_DEPENDS "src/*.c")
+set(INCLUDE_DIR "inc/")
